@@ -28,7 +28,8 @@ public class Producer {
 
 
 
-    /*Spring中进行单元测试*/
+    /*Spring
+    中进行单元测试*/
     @Test
     public void send(){
         sendMsg(null,"1234567890");
